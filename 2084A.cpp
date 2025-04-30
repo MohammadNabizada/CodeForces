@@ -14,7 +14,7 @@ int main()
 
       if(n % 2 == 0){
         cout << "-1"<<"\n";
-        continue;
+         continue;
       }
       cout << n <<" ";
 
